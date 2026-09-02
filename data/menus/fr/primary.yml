@@ -1,15 +1,15 @@
 ---
 title: Menu principal
 items:
-- title: Projets
-  slug: projets
-  target: "/projets/"
+- title: Actualités
+  slug: actualites
+  target: "/actualites/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
+  path: "/posts"
+  file: content/fr/posts/_index.html
 - title: Personnes
   slug: personnes
   target: "/personnes/"
@@ -28,15 +28,15 @@ items:
   descendants_targets: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Actualités
-  slug: actualites
-  target: "/actualites/"
+- title: Projets
+  slug: projets
+  target: "/projets/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
+  path: "/projects"
+  file: content/fr/projects/_index.html
 - title: Fichiers
   slug: fichiers
   target: "/fichiers/"
